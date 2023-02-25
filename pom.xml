@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://3.110.215.193:9000/</sonar.host.url>
+		<sonar.host.url>http://35.154.88.190:9000/</sonar.host.url>
                 <sonar.login>squ_8b2bff584ae8239b6e0cea35bf2d84957124ffd4</sonar.login>
 	
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.109.32.157:8892/shivanand/repository/hdfcbk-release/</url>
+	      <url>http://65.2.168.149:8892/shivanand/repository/hdfcbk-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.109.32.157:8892/shivanand/repository/hdfcbk-snapshot/</url>
+	      <url>http://65.2.168.149:8892/shivanand/repository/hdfcbk-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
